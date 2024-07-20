@@ -1,0 +1,5 @@
+/* Footer.module.css */
+.footer {
+  /* Các styles khác của footer */
+  margin-top: auto; /* Điều này sẽ đẩy footer xuống dưới nếu nội dung không đủ dài */
+}

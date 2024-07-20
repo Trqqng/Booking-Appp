@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "./img/core-img/icon-1.png",
+    "title": "Hotels"
+  },
+  {
+    "icon": "./img/core-img/icon-2.png",
+    "title": "Restaurants"
+  },
+  {
+    "icon": "./img/core-img/icon-3.png",
+    "title": "Shopping"
+  },
+  {
+    "icon": "./img/core-img/icon-4.png",
+    "title": "Beauty & Spa"
+  },
+  {
+    "icon": "./img/core-img/icon-5.png",
+    "title": "Cinema"
+  }
+]

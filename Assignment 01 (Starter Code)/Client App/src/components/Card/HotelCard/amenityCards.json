@@ -1,0 +1,22 @@
+{
+  "Free Wi-Fi": {
+    "component": "FreeWifiIcon",
+    "bgColor": "#4CAF50"
+  },
+  "Swimming Pool": {
+    "component": "SwimmingPoolIcon",
+    "bgColor": "#2196F3"
+  },
+  "Fitness Center": {
+    "component": "FitnessCenterIcon",
+    "bgColor": "#FF9800"
+  },
+  "Spa": {
+    "component": "SpaIcon",
+    "bgColor": "#9C27B0"
+  },
+  "Restaurant": {
+    "component": "RestaurantIcon",
+    "bgColor": "#F44336"
+  }
+}

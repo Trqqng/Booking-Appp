@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+    .w-30p {
+        width: 30%;
+    }
+
+    .review-card:hover .inner-div {
+        background-color: #6b46c1; /* màu nền khi hover */
+        color: #ffffff; /* màu chữ khi hover */
+    }
+
+    .hover-text-purple:hover {
+        color: #7643ea !important;
+    }
+
+    /* styles.css */
+    @media (max-width: 640px) {
+        .increase-height-container {
+            height: 1000px; /* Điều chỉnh chiều cao theo ý bạn */
+        }
+    }
+
+
+
+
+
+
+
+
+
+}

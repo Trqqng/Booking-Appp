@@ -1,0 +1,10 @@
+/* RootLayout.module.css */
+.rootContainer {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex-grow: 1; /* Đảm bảo rằng nội dung sẽ chiếm đủ không gian */
+}

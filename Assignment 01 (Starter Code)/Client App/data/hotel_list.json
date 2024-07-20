@@ -1,0 +1,259 @@
+[{
+  "_id": {
+    "$oid": "665180a2e4db317d4323e79f"
+  },
+  "name": "Aparthotel Stare Miasto",
+  "city": [
+    {
+      "$oid": "6650b0a25e297a880850e929"
+    }
+  ],
+  "address": "123 Main Street",
+  "distance": "2km from city center",
+  "photos": [
+    "/images/hotel_1.webp"
+  ],
+  "title": "Khách sạn 5 sao sang trọng",
+  "desc": "Aparthotel Stare Miasto is situated in the very centre of Kraków’s Old Town, just 120 metres from the Main Market Square. It features spacious modern apartments with free WiFi.",
+  "rating": 5,
+  "cheapestPrice": 100,
+  "featured": true,
+  "rooms": [
+  ],
+  "phone": "0123456789",
+  "email": "info@luxuryhotel.com",
+  "website": "www.luxuryhotel.com",
+  "amenities": [
+    {
+      "$oid": "6651aaad31ffefe0db53a713"
+    },
+    {
+      "$oid": "6651aaad31ffefe0db53a714"
+    },
+    {
+      "$oid": "6651aaad31ffefe0db53a715"
+    },
+    {
+      "$oid": "6651aaad31ffefe0db53a716"
+    },
+    {
+      "$oid": "6651aaad31ffefe0db53a717"
+    }
+  ],
+  "checkInTime": "14:00",
+  "checkOutTime": "12:00",
+  "petPolicy": "No pets allowed",
+  "reviews": [
+    "66518ca11c07e360588e4d17",
+    "66518d55fddf8672e6b24e3a",
+    "66518d9a1aeccc81c55e0fd0"
+  ],
+  "available": true,
+  "__v": 8,
+  "free_cancel": "true",
+  "rate_text": "Excellent",
+  "type": [
+    {
+      "$oid": "66561969afb2dd633b819610"
+    }
+  ],
+  "detailPhoto": [
+    "/images/hotel_detail_1.jpg",
+    "/images/hotel_detail_2.jpg",
+    "/images/hotel_detail_3.jpg",
+    "/images/hotel_detail_4.jpg",
+    "/images/hotel_detail_5.jpg",
+    "/images/hotel_detail_6.jpg"
+  ]
+},
+  {
+    "_id": {
+      "$oid": "665180a3e4db317d4323e7b8"
+    },
+    "name": "Comfort Suites Airport",
+    "city": [
+      {
+        "$oid": "6650b0a25e297a880850e92a"
+      }
+    ],
+    "address": "123 Main Street",
+    "distance": "2km from city center",
+    "photos": [
+      "./images/hotel_2.jpg"
+    ],
+    "title": "Khách sạn 5 sao sang trọng",
+    "desc": "Set in Kraków and with Lost Souls Alley reachable within 700 metres, Sky Hotel Kraków offers express check-in and check-out, allergy-free rooms, a restaurant, free WiFithroughout the property and a...",
+    "rating": 4,
+    "cheapestPrice": 100,
+    "featured": true,
+    "rooms": [
+
+    ],
+    "phone": "0123456789",
+    "email": "info@luxuryhotel.com",
+    "website": "www.luxuryhotel.com",
+    "amenities": [
+      {
+        "$oid": "6651aaad31ffefe0db53a713"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a714"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a715"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a716"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a717"
+      }
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "petPolicy": "No pets allowed",
+    "reviews": [
+      "66518ca11c07e360588e4d1a",
+      "66518d55fddf8672e6b24e3e",
+      "66518d9a1aeccc81c55e0fd3"
+    ],
+    "available": true,
+    "__v": 7,
+    "free_cancel": "true",
+    "rate_text": "Excellent",
+    "type": [
+      {
+        "$oid": "66561969afb2dd633b819610"
+      }
+    ],
+    "detailPhoto": [
+      "./images/hotel_detail_1.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665180a3e4db317d4323e7cd"
+    },
+    "name": "Four Seasons Hotel",
+    "city": [
+      {
+        "$oid": "6650b0a25e297a880850e92b"
+      }
+    ],
+    "address": "123 Main Street",
+    "distance": "2km from city center",
+    "photos": [
+      "./images/hotel_3.jpg"
+    ],
+    "title": "Khách sạn 5 sao sang trọng",
+    "desc": "Providing quiet street views and free WiFi, Salve station offers accommodation well situated in the centre of Kraków, within a short distance of Lost Souls Alley, St. Mary's Basilica and St.",
+    "rating": 3.5,
+    "cheapestPrice": 100,
+    "featured": true,
+    "rooms": [
+
+    ],
+    "phone": "0123456789",
+    "email": "info@luxuryhotel.com",
+    "website": "www.luxuryhotel.com",
+    "amenities": [
+      {
+        "$oid": "6651aaad31ffefe0db53a713"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a714"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a715"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a716"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a717"
+      }
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "petPolicy": "No pets allowed",
+    "reviews": [
+      "66518ca21c07e360588e4d1d",
+      "66518d55fddf8672e6b24e41"
+    ],
+    "available": true,
+    "__v": 9,
+    "free_cancel": "true",
+    "rate_text": "Excellent",
+    "type": [
+      {
+        "$oid": "66561969afb2dd633b819610"
+      }
+    ],
+    "detailPhoto": [
+      "./images/hotel_detail_1.jpg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665180a4e4db317d4323e7e2"
+    },
+    "name": "Hilton Garden Inn",
+    "city": [
+      {
+        "$oid": "6650b0a25e297a880850e929"
+      }
+    ],
+    "address": "123 Main Street",
+    "distance": "2km from city center",
+    "photos": [
+      "./images/hotel_4.jpg"
+    ],
+    "title": "Providing quiet street views and free WiFi, Salve station offers accommodation well situated in the centre of Kraków, within a short distance of Lost Souls Alley, St. Mary's Basilica and St.",
+    "desc": "A luxurious 5-star hotel in the heart of the city.",
+    "rating": 5,
+    "cheapestPrice": 100,
+    "featured": true,
+    "rooms": [
+
+    ],
+    "phone": "0123456789",
+    "email": "info@luxuryhotel.com",
+    "website": "www.luxuryhotel.com",
+    "amenities": [
+      {
+        "$oid": "6651aaad31ffefe0db53a713"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a714"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a715"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a716"
+      },
+      {
+        "$oid": "6651aaad31ffefe0db53a717"
+      }
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "petPolicy": "No pets allowed",
+    "reviews": [
+      {
+        "$oid": "66518d9a1aeccc81c55e0fd6"
+      }
+    ],
+    "available": true,
+    "__v": 2,
+    "free_cancel": "true",
+    "rate_text": "Excellent",
+    "type": [
+      {
+        "$oid": "66561969afb2dd633b819610"
+      }
+    ],
+    "detailPhoto": [
+      ".images/hotel_detail_1.jpg"
+    ]
+  }]

@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Deluxe Room",
+    "price": 200,
+    "maxPeople": 2,
+    "desc": "A luxurious room with all amenities.",
+    "roomNumbers": [
+      { "number": 101, "available": true },
+      { "number": 102, "available": true },
+      { "number": 103, "available": true }
+    ],
+    "size": 30,
+    "bedType": "Queen",
+    "view": "City"
+
+  },
+  {
+    "title": "Standard Room",
+    "price": 100,
+    "maxPeople": 2,
+    "desc": "A comfortable room with basic amenities.",
+    "roomNumbers": [
+      { "number": 201, "available": true },
+      { "number": 202, "available": true },
+      { "number": 203, "available": true }
+    ],
+    "size": 20,
+    "bedType": "Double",
+    "view": "Garden"
+
+  },
+  {
+    "title": "Suite",
+    "price": 300,
+    "maxPeople": 4,
+    "desc": "An elegant suite with separate living area.",
+    "roomNumbers": [
+      { "number": 301, "available": true },
+      { "number": 302, "available": true }
+    ],
+    "size": 50,
+    "bedType": "King",
+    "view": "Sea"
+
+  },
+  {
+    "title": "Family Room",
+    "price": 250,
+    "maxPeople": 4,
+    "desc": "A spacious room perfect for families.",
+    "roomNumbers": [
+      { "number": 401, "available": true },
+      { "number": 402, "available": true },
+      { "number": 403, "available": true }
+    ],
+    "size": 40,
+    "bedType": "Queen",
+    "view": "City"
+
+  },
+  {
+    "title": "Single Room",
+    "price": 80,
+    "maxPeople": 1,
+    "desc": "A cozy room for solo travelers.",
+    "roomNumbers": [
+      { "number": 501, "available": true },
+      { "number": 502, "available": true }
+    ],
+    "size": 15,
+    "bedType": "Single",
+    "view": "Garden"
+
+  },
+  {
+    "title": "Presidential Suite",
+    "price": 500,
+    "maxPeople": 6,
+    "desc": "The most luxurious suite with top-notch amenities.",
+    "roomNumbers": [
+      { "number": 601, "available": true }
+    ],
+    "size": 70,
+    "bedType": "King",
+    "view": "Sea"
+
+  },
+  {
+    "title": "Executive Room",
+    "price": 220,
+    "maxPeople": 2,
+    "desc": "A premium room for business travelers.",
+    "roomNumbers": [
+      { "number": 701, "available": true },
+      { "number": 702, "available": true }
+    ],
+    "size": 35,
+    "bedType": "Queen",
+    "view": "City"
+
+  },
+  {
+    "title": "Economy Room",
+    "price": 60,
+    "maxPeople": 2,
+    "desc": "An affordable room with essential amenities.",
+    "roomNumbers": [
+      { "number": 801, "available": true },
+      { "number": 802, "available": true },
+      { "number": 803, "available": true }
+    ],
+    "size": 18,
+    "bedType": "Double",
+    "view": "Garden"
+
+  },
+  {
+    "title": "Penthouse",
+    "price": 400,
+    "maxPeople": 4,
+    "desc": "A stunning penthouse with breathtaking views.",
+    "roomNumbers": [
+      { "number": 901, "available": true }
+    ],
+    "size": 60,
+    "bedType": "King",
+    "view": "Sea"
+
+  }
+]

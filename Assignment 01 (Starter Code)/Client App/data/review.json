@@ -1,0 +1,17 @@
+[
+  {
+    "rating": 5,
+    "comment": "Amazing hotel with great service!",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "rating": 4,
+    "comment": "Very nice place, but the room was a bit small.",
+    "createdAt": "2024-02-01T00:00:00.000Z"
+  },
+  {
+    "rating": 3,
+    "comment": "Average experience. Good for the price.",
+    "createdAt": "2024-03-01T00:00:00.000Z"
+  }
+]
